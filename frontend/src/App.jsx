@@ -6,7 +6,7 @@ import Dashboard from './pages/admin/Dashboard.jsx'
 import CreateTask from './pages/admin/CreateTask.jsx'
 import ManageTask from './pages/admin/ManageTask.jsx'
 import ManageUsers from './pages/admin/ManageUsers.jsx'
-import PrivateRoute from './routes/PrivateRoute.jsx '
+import PrivateRoute from './routes/PrivateRoute.jsx'
 import MyTasks from './pages/user/MyTasks.jsx'
 
 
